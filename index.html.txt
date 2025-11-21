@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>DevOps Project - Nginx</title>
-</head>
-<body>
-<h1>Hello! This is my DevOps Docker Project 🚀</h1>
-</body>
-</html>
